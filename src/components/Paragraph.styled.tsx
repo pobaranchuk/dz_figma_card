@@ -1,6 +1,7 @@
 import styled from "styled-components";
 
 export const ParagraphStyled = styled.p`
+  display: block;
   width: 260px;
   color: #ABB3BA;
   font-family: Inter;
