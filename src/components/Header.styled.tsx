@@ -7,5 +7,6 @@ export const HeaderStyled = styled.h1`
   font-style: normal;
   font-weight: 700;
   line-height: normal;
-
+  margin-left: 20px;
+  text-align: left;
 `
